@@ -1,0 +1,16 @@
+C:\projetos\GFT_Pratica\exercicio1\bin\Debug\net5.0\exercicio1.exe
+C:\projetos\GFT_Pratica\exercicio1\bin\Debug\net5.0\exercicio1.deps.json
+C:\projetos\GFT_Pratica\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.json
+C:\projetos\GFT_Pratica\exercicio1\bin\Debug\net5.0\exercicio1.runtimeconfig.dev.json
+C:\projetos\GFT_Pratica\exercicio1\bin\Debug\net5.0\exercicio1.dll
+C:\projetos\GFT_Pratica\exercicio1\bin\Debug\net5.0\ref\exercicio1.dll
+C:\projetos\GFT_Pratica\exercicio1\bin\Debug\net5.0\exercicio1.pdb
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.csprojAssemblyReference.cache
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfoInputs.cache
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.AssemblyInfo.cs
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.dll
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\ref\exercicio1.dll
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.pdb
+C:\projetos\GFT_Pratica\exercicio1\obj\Debug\net5.0\exercicio1.genruntimeconfig.cache
