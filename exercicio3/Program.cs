@@ -31,7 +31,7 @@ namespace exercicio3
 
             SimulacaoCustoFrete simulacao = new SimulacaoCustoFrete();
 
-            simulacao.simulacao(carga1, carga2, carga3, carga4, carga5, carga6, carga7);
+            simulacao.simular(carga1, carga2, carga3, carga4, carga5, carga6, carga7);
 
             
             

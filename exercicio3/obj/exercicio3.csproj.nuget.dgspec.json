@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\GFT_Pratica\\exercicio2\\exercicio3\\exercicio3.csproj": {}
+    "C:\\projetos\\GFT_Pratica\\exercicio3\\exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\GFT_Pratica\\exercicio2\\exercicio3\\exercicio3.csproj": {
+    "C:\\projetos\\GFT_Pratica\\exercicio3\\exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\GFT_Pratica\\exercicio2\\exercicio3\\exercicio3.csproj",
+        "projectUniqueName": "C:\\projetos\\GFT_Pratica\\exercicio3\\exercicio3.csproj",
         "projectName": "exercicio3",
-        "projectPath": "C:\\projetos\\GFT_Pratica\\exercicio2\\exercicio3\\exercicio3.csproj",
+        "projectPath": "C:\\projetos\\GFT_Pratica\\exercicio3\\exercicio3.csproj",
         "packagesPath": "C:\\Users\\lyppe\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\GFT_Pratica\\exercicio2\\exercicio3\\obj\\",
+        "outputPath": "C:\\projetos\\GFT_Pratica\\exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lyppe\\AppData\\Roaming\\NuGet\\NuGet.Config",
